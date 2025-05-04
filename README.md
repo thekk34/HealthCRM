@@ -16,3 +16,4 @@ HealthCRM is a full-featured Customer Relationship Management (CRM) web applicat
 - **Frontend**: React + Vite
 - **Styling**: Tailwind CSS / Material UI (as preferred)
 ## DEMO LINK
+https://thekk34.github.io/HealthCRM/
